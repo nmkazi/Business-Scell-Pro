@@ -1,0 +1,18 @@
+.nmkazi-bsp-customer-access-btn{
+    display: inline-block;
+    padding: 2px 2px;
+    border-radius: 7px;
+    font-size: 11px;
+    border-radius: 2px;
+    margin: 2px;
+}
+
+.nmkazi-bsp-customer-access-allowed{
+    background-color: #4CAF50; /* A vibrant green */
+    color: white;
+}
+
+.nmkazi-bsp-customer-access-blocked{
+    background-color: #f44336; /* A clear red */
+    color: white;
+}
